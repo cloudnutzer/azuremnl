@@ -1,4 +1,4 @@
-#Azure Onboarding Script Description:
+# Azure Onboarding Script Description:
 
 ## Instructions
 - please remove for both files, in the filename the ".md" file type.
